@@ -2,6 +2,21 @@ body{
     background: blue
 }
 
+
+.assignment {
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background:lightgoldenrodyellow
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+}
+
+
+}
 h1{
     color: darkgoldenrod
     text-align:center;
